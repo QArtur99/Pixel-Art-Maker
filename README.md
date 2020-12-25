@@ -1,6 +1,6 @@
 # Pixel Art Maker Project
 
-## How to run the game
+## How to run the Pixel Art Maker
 - Go to: [**Link**](https://qartur99.github.io/Pixel-Art-Maker/ "Link")
 - Clone or download repository as a zip file and open index.html file in your browser
 
